@@ -1,0 +1,9 @@
+[package]
+name = "day_02"
+version = "0.1.0"
+authors = ["Anton Helm <anton.helm@tecnico.ulisboa.pt>"]
+edition = "2018"
+autobins = true
+
+[dependencies]
+regex = "1.4.2"
